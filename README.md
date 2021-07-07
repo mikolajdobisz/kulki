@@ -7,6 +7,10 @@ It's a game where the objective is putting balls of the same color in lines of 5
 New balls are added each round.
 The game ends when you run out of place for new balls.
 
+## Try the game out on CodePen
+
+https://codepen.io/soundwave7331/pen/qBmZKgV
+
 ## Installation
 
 ### To play the game
