@@ -7,6 +7,26 @@ It's a game where the objective is putting balls of the same color in lines of 5
 New balls are added each round.
 The game ends when you run out of place for new balls.
 
+## Installation
+
+### To play the game
+Simply open index.html in a browser.
+
+### To edit source code 
+
+Install needed dependencies
+```
+npm install
+```
+Run webpack server in developer mode
+```
+npm run dev
+```
+Run webpack server in production mode
+```
+npm run prod
+```
+
 ## Created using
 
 * Webpack
