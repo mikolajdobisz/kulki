@@ -10,7 +10,7 @@ The game ends when you run out of place for new balls.
 ## Installation
 
 ### To play the game
-Simply open index.html in a browser.
+Simply open index.html in a browser. Files needed for the game to work are in ./dist and ./css folders.
 
 ### To edit source code 
 
